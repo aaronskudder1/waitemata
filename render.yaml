@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: waitemata-lodge-689
+    runtime: node
+    plan: free
+    region: oregon
+    branch: main
+    rootDir: .
+    buildCommand: yarn build
+    startCommand: yarn serve
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: 20
