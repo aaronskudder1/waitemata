@@ -1,0 +1,18 @@
+{
+  "id": "basic/getting-started/patterns_by_usecase",
+  "title": "Useful Patterns by Use Case",
+  "description": "Wrapping/Mirroring",
+  "source": "@site/../docs/basic/getting-started/patterns_by_usecase.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/patterns_by_usecase",
+  "permalink": "/docs/basic/getting-started/patterns_by_usecase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "patterns_by_usecase",
+    "title": "Useful Patterns by Use Case",
+    "sidebar_label": "Useful Patterns by Use Case"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "docs": [
+    "basic",
+    {
+      "type": "category",
+      "label": "Basic",
+      "items": [
+        "basic/history",
+        "basic/meetings"
+      ]
+    },
+    "faqs",
+    {
+      "type": "category",
+      "label": "Faqs",
+      "items": [
+        "faqs/past-masters"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Reference",
+      "items": [
+        "reference/Ref"
+      ]
+    }
+  ]
+}

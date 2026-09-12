@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/hooks",
+  "title": "Hooks",
+  "description": "Hooks are supported in @types/react from v16.8 up.",
+  "source": "@site/../docs/basic/getting-started/hooks.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/hooks",
+  "permalink": "/docs/basic/getting-started/hooks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "hooks",
+    "title": "Hooks"
+  }
+}

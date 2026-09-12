@@ -1,0 +1,14 @@
+{
+  "id": "basic/faq/PastMasters",
+  "title": "PastMasters",
+  "description": "",
+  "source": "@site/../docs/basic/faq/PastMasters.md",
+  "sourceDirName": "basic/faq",
+  "slug": "/basic/faq/PastMasters",
+  "permalink": "/docs/basic/faq/PastMasters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

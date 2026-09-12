@@ -1,0 +1,16 @@
+{
+  "id": "reference/CSSProperties",
+  "title": "CSSProperties",
+  "description": "CSSProperties is the type for inline styles passed via the style prop. It extends csstype's Properties, so every standard CSS property is covered with autocompletion and value validation.",
+  "source": "@site/../docs/reference/CSSProperties.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/CSSProperties",
+  "permalink": "/docs/reference/CSSProperties",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CSSProperties"
+  }
+}

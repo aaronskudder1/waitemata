@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/concurrent",
+  "title": "Concurrent React",
+  "description": "The Concurrent React APIs (Suspense, useTransition, useDeferredValue, startTransition, use) let you keep the UI responsive while React renders work in the background or waits for data. They're all stable as of React 18 and gained additional capabilities in React 19.",
+  "source": "@site/../docs/basic/getting-started/concurrent.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/concurrent",
+  "permalink": "/docs/basic/getting-started/concurrent",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "concurrent",
+    "title": "Concurrent React"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/portals",
+  "title": "Portals",
+  "description": "Using ReactDOM.createPortal:",
+  "source": "@site/../docs/basic/getting-started/portals.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/portals",
+  "permalink": "/docs/basic/getting-started/portals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "portals",
+    "title": "Portals"
+  }
+}

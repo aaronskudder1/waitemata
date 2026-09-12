@@ -1,0 +1,17 @@
+{
+  "id": "faqs/past_masters",
+  "title": "Past Masters",
+  "description": "1855 Sir Samuel Osborne Gibbes \t1856 F.W. Merriman",
+  "source": "@site/../docs/faqs/past-masters.md",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/past_masters",
+  "permalink": "/docs/faqs/past_masters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "past_masters",
+    "title": "Past Masters"
+  }
+}

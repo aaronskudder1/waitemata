@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/forms_and_events",
+  "title": "Forms and Events",
+  "description": "If performance is not an issue (and it usually isn't!), inlining handlers is easiest as you can just use type inference and contextual typing:",
+  "source": "@site/../docs/basic/getting-started/forms-and-events.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/forms_and_events",
+  "permalink": "/docs/basic/getting-started/forms_and_events",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "forms_and_events",
+    "title": "Forms and Events"
+  }
+}

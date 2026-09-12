@@ -1,0 +1,16 @@
+{
+  "id": "reference/ReactNode",
+  "title": "ReactNode",
+  "description": "ReactNode is a type that describes what React can render. It's a union of every value React accepts as a child:",
+  "source": "@site/../docs/reference/ReactNode.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/ReactNode",
+  "permalink": "/docs/reference/ReactNode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ReactNode"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "basic/getting-started/meetings",
+  "title": "Meetings",
+  "description": "Before you write to us",
+  "source": "@site/../docs/basic/getting-started/meetings.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/meetings",
+  "permalink": "/docs/basic/getting-started/meetings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "meetings",
+    "title": "Meetings"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "History",
+    "permalink": "/docs/basic/getting-started/history"
+  },
+  "next": {
+    "title": "Past Masters",
+    "permalink": "/docs/basic/getting-started/past-masters"
+  }
+}

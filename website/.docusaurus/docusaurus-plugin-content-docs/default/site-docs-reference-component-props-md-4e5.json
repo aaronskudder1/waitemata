@@ -1,0 +1,16 @@
+{
+  "id": "reference/ComponentProps",
+  "title": "ComponentProps<ElementType>",
+  "description": "ComponentProps constructs a type with all valid props of an element or inferred props of a component.",
+  "source": "@site/../docs/reference/ComponentProps.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/ComponentProps",
+  "permalink": "/docs/reference/ComponentProps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ComponentProps<ElementType>"
+  }
+}

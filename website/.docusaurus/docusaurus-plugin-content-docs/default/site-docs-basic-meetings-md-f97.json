@@ -1,0 +1,17 @@
+{
+  "id": "basic/meetings",
+  "title": "Meetings",
+  "description": "Before you write to us",
+  "source": "@site/../docs/basic/meetings.md",
+  "sourceDirName": "basic",
+  "slug": "/basic/meetings",
+  "permalink": "/docs/basic/meetings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "meetings",
+    "title": "Meetings"
+  }
+}

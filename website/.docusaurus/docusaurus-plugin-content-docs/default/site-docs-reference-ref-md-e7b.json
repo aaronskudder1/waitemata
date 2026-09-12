@@ -1,0 +1,16 @@
+{
+  "id": "reference/Ref",
+  "title": "Ref, RefObject, RefCallback",
+  "description": "@types/react ships three closely related ref types. Understanding how they fit together is the key to typing refs correctly in React 19, where ref is a regular prop on function components.",
+  "source": "@site/../docs/reference/Ref.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/Ref",
+  "permalink": "/docs/reference/Ref",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ref, RefObject, RefCallback"
+  }
+}

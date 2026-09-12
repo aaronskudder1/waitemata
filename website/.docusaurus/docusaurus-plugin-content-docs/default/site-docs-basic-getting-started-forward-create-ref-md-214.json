@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/forward_and_create_ref",
+  "title": "forwardRef/createRef",
+  "description": "For useRef, check the Hooks section.",
+  "source": "@site/../docs/basic/getting-started/forward-create-ref.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/forward_and_create_ref",
+  "permalink": "/docs/basic/getting-started/forward_and_create_ref",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "forward_and_create_ref",
+    "title": "forwardRef/createRef"
+  }
+}

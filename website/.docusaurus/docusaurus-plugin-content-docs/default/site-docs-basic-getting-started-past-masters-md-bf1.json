@@ -1,0 +1,22 @@
+{
+  "id": "basic/getting-started/past-masters",
+  "title": "Past Masters",
+  "description": "1855 Sir Samuel Osborne Gibbes \t1856 F.W. Merriman",
+  "source": "@site/../docs/basic/getting-started/past-masters.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/past-masters",
+  "permalink": "/docs/basic/getting-started/past-masters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "past-masters",
+    "title": "Past Masters"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Meetings",
+    "permalink": "/docs/basic/getting-started/meetings"
+  }
+}

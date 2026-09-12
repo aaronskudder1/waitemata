@@ -1,0 +1,111 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "basic/getting-started/history",
+          "docs": [
+            {
+              "id": "basic/getting-started/basic_type_example",
+              "path": "/docs/basic/getting-started/basic_type_example"
+            },
+            {
+              "id": "basic/getting-started/class_components",
+              "path": "/docs/basic/getting-started/class_components"
+            },
+            {
+              "id": "basic/getting-started/concurrent",
+              "path": "/docs/basic/getting-started/concurrent"
+            },
+            {
+              "id": "basic/getting-started/context",
+              "path": "/docs/basic/getting-started/context"
+            },
+            {
+              "id": "basic/getting-started/default_props",
+              "path": "/docs/basic/getting-started/default_props"
+            },
+            {
+              "id": "basic/getting-started/error_boundaries",
+              "path": "/docs/basic/getting-started/error_boundaries"
+            },
+            {
+              "id": "basic/getting-started/forms_and_events",
+              "path": "/docs/basic/getting-started/forms_and_events"
+            },
+            {
+              "id": "basic/getting-started/forward_and_create_ref",
+              "path": "/docs/basic/getting-started/forward_and_create_ref"
+            },
+            {
+              "id": "basic/getting-started/function_components",
+              "path": "/docs/basic/getting-started/function_components"
+            },
+            {
+              "id": "basic/getting-started/history",
+              "path": "/docs/basic/getting-started/history",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basic/getting-started/hooks",
+              "path": "/docs/basic/getting-started/hooks"
+            },
+            {
+              "id": "basic/getting-started/meetings",
+              "path": "/docs/basic/getting-started/meetings",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basic/getting-started/past-masters",
+              "path": "/docs/basic/getting-started/past-masters",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basic/getting-started/patterns_by_usecase",
+              "path": "/docs/basic/getting-started/patterns_by_usecase"
+            },
+            {
+              "id": "basic/getting-started/portals",
+              "path": "/docs/basic/getting-started/portals"
+            },
+            {
+              "id": "basic/setup",
+              "path": "/docs/basic/setup"
+            },
+            {
+              "id": "reference/ComponentProps",
+              "path": "/docs/reference/ComponentProps"
+            },
+            {
+              "id": "reference/CSSProperties",
+              "path": "/docs/reference/CSSProperties"
+            },
+            {
+              "id": "reference/ReactNode",
+              "path": "/docs/reference/ReactNode"
+            },
+            {
+              "id": "reference/Ref",
+              "path": "/docs/reference/Ref"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebar": {
+              "link": {
+                "path": "/docs/basic/getting-started/history",
+                "label": "basic/getting-started/history"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

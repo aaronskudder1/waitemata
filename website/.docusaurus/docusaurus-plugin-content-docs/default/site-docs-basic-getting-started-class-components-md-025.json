@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/class_components",
+  "title": "Class Components",
+  "description": "Within TypeScript, React.Component is a generic type (aka React.Component), so you want to provide it with (optional) prop and state type parameters:",
+  "source": "@site/../docs/basic/getting-started/class-components.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/class_components",
+  "permalink": "/docs/basic/getting-started/class_components",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "class_components",
+    "title": "Class Components"
+  }
+}

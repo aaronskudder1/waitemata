@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/error_boundaries",
+  "title": "Error Boundaries",
+  "description": "Option 1: Using react-error-boundary",
+  "source": "@site/../docs/basic/getting-started/error-boundaries.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/error_boundaries",
+  "permalink": "/docs/basic/getting-started/error_boundaries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "error_boundaries",
+    "title": "Error Boundaries"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/function_components",
+  "title": "Function Components",
+  "description": "These can be written as normal functions that take a props argument and return a JSX element.",
+  "source": "@site/../docs/basic/getting-started/function-components.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/function_components",
+  "permalink": "/docs/basic/getting-started/function_components",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "function_components",
+    "title": "Function Components"
+  }
+}

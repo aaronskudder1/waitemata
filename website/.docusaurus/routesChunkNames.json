@@ -1,0 +1,202 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/about-ca4": {
+    "__comp": "__comp---site-src-pages-about-tsx-618-aa9",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  },
+  "/blog-98b": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [],
+    "__props": "__props---blogc-15-573"
+  },
+  "/contributing-720": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "content": "content---contributingb-77-d91"
+  },
+  "/contributors-1d0": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "content": "content---contributorse-4-e-542"
+  },
+  "/faqs-e25": {
+    "__comp": "__comp---site-src-pages-faqs-tsx-553-e02",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  },
+  "/meetings-63c": {
+    "__comp": "__comp---site-src-pages-meetings-tsxc-60-cc0",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  },
+  "/questionnaire-ddc": {
+    "__comp": "__comp---site-src-pages-questionnaire-tsxce-0-1c8",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  },
+  "/search-5de": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-14-0ea"
+    }
+  },
+  "/docs-6c1": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-63d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-19f": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/basic/getting-started/basic_type_example-311": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-basic-type-example-808-ee4"
+  },
+  "/docs/basic/getting-started/class_components-d95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-class-components-025-0f5"
+  },
+  "/docs/basic/getting-started/concurrent-dab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-concurrent-120-3bd"
+  },
+  "/docs/basic/getting-started/context-869": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-context-272-637"
+  },
+  "/docs/basic/getting-started/default_props-29f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-default-propsde-4-189"
+  },
+  "/docs/basic/getting-started/error_boundaries-3af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-error-boundaries-8-f-5-7c7"
+  },
+  "/docs/basic/getting-started/forms_and_events-ecd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-forms-and-events-1-f-2-403"
+  },
+  "/docs/basic/getting-started/forward_and_create_ref-f92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-forward-and-create-ref-214-8d6"
+  },
+  "/docs/basic/getting-started/function_components-f60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-function-componentsed-3-98c"
+  },
+  "/docs/basic/getting-started/history-105": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-history-34-f-68a"
+  },
+  "/docs/basic/getting-started/hooks-7ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-hooks-028-d35"
+  },
+  "/docs/basic/getting-started/meetings-4b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-meetingsdc-5-aae"
+  },
+  "/docs/basic/getting-started/past-masters-2d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-past-mastersbf-1-7c4"
+  },
+  "/docs/basic/getting-started/patterns_by_usecase-6b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-patterns-by-usecase-233-a93"
+  },
+  "/docs/basic/getting-started/portals-aaf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-getting-started-portalsdfd-46d"
+  },
+  "/docs/basic/setup-7e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-basic-setup-189-ce9"
+  },
+  "/docs/reference/ComponentProps-8b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-component-props-4-e-5-1f7"
+  },
+  "/docs/reference/CSSProperties-cad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-css-properties-8-a-2-099"
+  },
+  "/docs/reference/ReactNode-3ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-react-nodef-3-a-186"
+  },
+  "/docs/reference/Ref-ec6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-refe-7-b-130"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "config": "config---about-5-e-9-bcb"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/basic_type_example",
+  "title": "Typing Component Props",
+  "description": "This is intended as a basic orientation and reference for React developers familiarizing with TypeScript.",
+  "source": "@site/../docs/basic/getting-started/basic-type-examples.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/basic_type_example",
+  "permalink": "/docs/basic/getting-started/basic_type_example",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "basic_type_example",
+    "title": "Typing Component Props"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "basic/setup",
+  "title": "Setup",
+  "description": "This section contains the basic setup guidance for working with React and TypeScript.",
+  "source": "@site/../docs/basic/setup.md",
+  "sourceDirName": "basic",
+  "slug": "/basic/setup",
+  "permalink": "/docs/basic/setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setup",
+    "title": "Setup"
+  }
+}

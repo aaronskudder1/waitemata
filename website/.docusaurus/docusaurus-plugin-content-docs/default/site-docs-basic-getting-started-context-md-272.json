@@ -1,0 +1,17 @@
+{
+  "id": "basic/getting-started/context",
+  "title": "Context",
+  "description": "Basic example",
+  "source": "@site/../docs/basic/getting-started/context.md",
+  "sourceDirName": "basic/getting-started",
+  "slug": "/basic/getting-started/context",
+  "permalink": "/docs/basic/getting-started/context",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "context",
+    "title": "Context"
+  }
+}
