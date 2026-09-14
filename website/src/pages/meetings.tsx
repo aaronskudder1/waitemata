@@ -30,17 +30,25 @@ export default function MeetingsPage() {
       <section style={{ marginTop: '2rem' }}>
         <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
           
-        <header>Meetings</header>
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Meetings</header>
 
         <p>The Waitemata Lodge meets at The Ellerslie Masonic Centre, 
         9a Robert Street, Ellerslie, Auckland. 
         Meetings are held on the first Wednesday of each month from March to December, starting at 6.30 pm. A dinner follows the meeting.
         </p>
       </section>
- <section style={{ marginTop: '2rem' }}>
+      <section style={{ marginTop: '2rem' }}>
         <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
           
-        <header>Dining</header>
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Instruction</header>
+
+        <p>Twice monthly. This is where the ritual is learned. It is not, in practice, optional.
+        </p>
+      </section>
+      <section style={{ marginTop: '2rem' }}>
+        <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
+          
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Dining</header>
 
         <p>The Waitemata Lodge are a dining lodge and we enjoy a meal together after each meeting. 
         </p>
@@ -57,7 +65,25 @@ export default function MeetingsPage() {
             boxShadow: '0 8px 24px rgba(0, 0, 0, 0.15)',
           }}
         />
+      </section>
 
+      <section style={{ marginTop: '2rem' }}>
+        <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
+          
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Cost</header>
+        <p>$80 on initiation. $140 a year. $25 for dinner, if you stay for it. You provide your own dark suit and regalia.
+        </p>
+      </section>
+      <section style={{ marginTop: '2rem' }}>
+        <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Requirements</header>
+
+        <p>Over 18. Of good character. A belief in a supreme being, however you understand it.</p>
+      </section>
+      <section style={{ marginTop: '2rem' }}>
+        <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}/>
+        <header style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1rem' }}>Dress</header>
+        <p>Dark suit, white shirt, black shoes. Always.</p>
       </section>
 
     </main>

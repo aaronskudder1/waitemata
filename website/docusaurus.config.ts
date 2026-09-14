@@ -31,7 +31,7 @@ const config: Config = {
 
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -41,7 +41,7 @@ const config: Config = {
           path: "../docs",
           // Sidebars file relative to website dir.
           //sidebarPath: require.resolve("./sidebars.js"),
-          sidebarPath: './sidebars.js'
+          sidebarPath: "./sidebars.js",
         },
       } satisfies Preset.Options,
     ],
@@ -102,7 +102,7 @@ const config: Config = {
         alt: "TypeScript Cheatsheets Logo",
         src: "img/icon.png",
       },
-      copyright: `Copyright © ${new Date().getFullYear()} TypeScript Cheatsheets`,
+      copyright: `Copyright © ${new Date().getFullYear()} Waitemata Lodge 689`,
       links: [
         {
           title: "Contact",

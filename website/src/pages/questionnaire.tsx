@@ -112,7 +112,7 @@ export default function QuestionnairePage(): ReactNode {
       `Name: ${signupData.name}\nEmail: ${signupData.email}\nPhone: ${signupData.phone}`
     );
 
-    window.location.href = `mailto:aaron@skudder.nz?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:waitemata.lodge@freemasons.org.nz?subject=${subject}&body=${body}`;
     setSignupSubmitted(true);
   };
 
@@ -311,7 +311,7 @@ export default function QuestionnairePage(): ReactNode {
                   {signupSubmitted && (
                     <p className="margin-top--lg">
                       Your email app should now be opening with the details ready
-                      to send to aaron@skudder.nz.
+                      to send to mailto:waitemata.lodge@freemasons.org.nz.
                     </p>
                   )}
                 </div>

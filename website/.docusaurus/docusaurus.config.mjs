@@ -291,7 +291,7 @@ export default {
         "alt": "TypeScript Cheatsheets Logo",
         "src": "img/icon.png"
       },
-      "copyright": "Copyright © 2026 TypeScript Cheatsheets",
+      "copyright": "Copyright © 2026 Waitemata Lodge 689",
       "links": [
         {
           "title": "Contact",
